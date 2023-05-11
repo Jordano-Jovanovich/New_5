@@ -1,0 +1,20 @@
+.menu-active {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+}
+.list-item a {
+    text-decoration: none;
+    color:palevioletred;
+}
+h2 {
+    color: darkgoldenrod;
+    text-decoration: overline;
+}
+.main-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 26px;
+}
